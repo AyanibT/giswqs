@@ -1,42 +1,39 @@
 ## Qiusheng Wu
 
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/giswqs?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/giswqs)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
-[![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@giswqs)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswqs)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://tiny.utk.edu/wu-cv)
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/ayanibt?tab=followers)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ayanibt)
 
-Dr. Qiusheng Wu is an Associate Professor and the Director of Graduate Studies in the Department of Geography & Sustainability at the University of Tennessee, Knoxville. He also serves as an Amazon Scholar. Dr. Wu’s research focuses on geospatial data science and open-source software development, with an emphasis on leveraging big geospatial data and cloud computing to study environmental change, particularly surface water and wetland inundation dynamics. He is the creator of several widely used open-source Python packages, including geemap, leafmap, segment-geospatial, and geoai, which support advanced geospatial analysis and interactive visualization. His open-source work is available at <https://github.com/opengeos>.
+
+I am a Civil Engineer with a Master’s degree in Water Engineering and Management from the Asian Institute of Technology (AIT), Thailand, and a strong interest in renewable energy, geospatial analysis, and climate-focused infrastructure development. My professional journey began in 2014 when I joined Khwopa Engineering College, Nepal, and since earning my Bachelor's degree in 2019, I have worked across diverse roles in hydropower, solar energy, GIS, and technical consulting.
+
+I started my career at M.S. Tech Pvt. Ltd., a consultancy focused on hydropower and geotechnical projects. During my time there, I contributed to feasibility studies, technical reports, GIS mapping, and design tasks for projects such as the Hongu Khola HPP, Simbuwa Khola HPP, and Dharamnagar Solar Farm.
+
+Alongside this, I was involved with Science Playground Pvt. Ltd., an educational initiative by the same founder, where I worked on developing interactive science exhibits. A highlight of this collaboration was leading the "3D Terrain Modeling of Nepal" project—an innovative 3D printed map integrating topography, hydrology, and infrastructure for educational and planning purposes.
+
+Later, as an independent consultant, I developed a GIS database and published an interactive web map showcasing all listed hydropower and solar projects in Nepal at various development stages. This work contributed to broader technical studies for Nepal’s power system planning in the context of the Dudhkoshi Storage HEP and beyond. View the map here: 
+<https://ayanibt.github.io/Power-Projects>.
+
+I am currently working as a Project Engineer, providing technical support in hydropower project execution. My responsibilities include coordinating contracts based on FIDIC standards, reviewing bid / contract documents for Civil, Hydro-mechanical and Electro-mechanical works, and overseeing site supervision and reporting for projects such as Upper Pikhuwa (4.9 MW) and Pikhuwa Pashupati (4.1 MW).
+
+I am passionate about leveraging GIS, WebGIS, data analysis, and open-source tools to support sustainable energy infrastructure and climate-resilient development. His open-source work is available at 
 
 ---
 
 ### Open-source Projects
 
-- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
-- **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
-- **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
-- **ArcGIS Toolboxes:** [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) | [Depression Analysis Toolbox](https://github.com/giswqs/Depression-Analysis-Toolbox) | [Wetland Hydrology Analyst](https://github.com/giswqs/Wetland-Hydrology-Analyst-Toolbox)
-- **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
+
 
 ---
 
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-- [Visualizing satellite image time series interactively](https://blog.gishub.org/visualizing-satellite-image-time-series-interactively)
-- [Segment-geospatial presentation at SERVIR](https://blog.gishub.org/segment-geospatial-presentation-at-servir)
-- [Segmenting remote sensing imagery with box prompts](https://blog.gishub.org/segmenting-remote-sensing-imagery-with-box-prompts)
-- [New book release: Earth Engine and Geemap](https://blog.gishub.org/new-book-release-earth-engine-and-geemap)
-- [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
+
 <!-- HASHNODE:END -->
 
 ---
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayanibt&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayanibt&langs_count=3)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
